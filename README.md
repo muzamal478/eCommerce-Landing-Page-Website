@@ -8,6 +8,11 @@ The landing page was last updated on May 14, 2025, and is designed with a modern
 
 ---
 
+## Live Demo
+[Live Demo Here](https://muzamal478.github.io/eCommerce-Landing-Page-Website/)
+
+---
+
 ## Features
 
 - **Responsive Design**: Fully responsive across mobile (up to 768px), tablet (769px–1024px), and desktop (1024px and above) devices.
